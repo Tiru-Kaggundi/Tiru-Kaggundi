@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Tiru-Kaggundi
-- No, that's not my real name. It unsqueezes into Tirumala Venkatesh Kaggundi
+- Full name: Tirumala Venkatesh Kaggundi
 - 👀 I’m interested in AI/ML and the application of the same in Public Policy
-- 🌱 I’m currently learning stuff that might change the world
-- 💞️ I’m looking to collaborate on dataviz projects, AI/ML projects related to governance. 
+- 🌱 I’m interested in stuff that might change the world
+- 💞️ I’m can collaborate on dataviz and AI/ML projects related to governance and public policy.
 - -- Check out some of my posts on www.indianwesterlies.com
 - :) On medium at https://medium.com/@tirumalakv
-- 📫 How to reach me ... send an email to tirumalakv@gmail.com. 
-
-
+- 📫 How to reach me ... send an email to tirumalakv@gmail.com. I usually respond within 48 to 72 hours. 
