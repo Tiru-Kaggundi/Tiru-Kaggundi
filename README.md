@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Tiru-Kaggundi
-- Full name: Tirumala Venkatesh Kaggundi
-- 👀 I’m interested in AI/ML and the application of the same in Public Policy
-- 🌱 I’m interested in stuff that might change the world
+- 👋 Hi, I am Tiru (Tirumala Venkatesh Kaggundi)
+- 👀 I’m interested in AI/ML and the application of the AI/ML in Public Policy
 - 💞️ I’m can collaborate on dataviz and AI/ML projects related to governance and public policy.
 - -- Check out some of my posts on www.indianwesterlies.com
 - :) On medium at https://medium.com/@tirumalakv
