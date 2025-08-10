@@ -2,6 +2,6 @@
 - 👀 I’m interested in AI/ML and the application of the AI/ML in Public Policy
 - I have deep experience in the area of international trade, e-governance systems in public service delivery, e-commerce, trade finance and public policymaking. 
 - 💞️ I’m can collaborate on dataviz and AI/ML projects related to governance and public policy.
-- -- Check out some of my posts on https://indianwesterlies.substack.com or www.indianwesterlies.com
+- -- Check out some of my posts on https://indianwesterlies.substack.com or www.tirumalakaggundi.com
 - :) On medium at https://medium.com/@tirumalakv
 - 📫 How to reach me: send an email to tirumalakv@gmail.com. 
