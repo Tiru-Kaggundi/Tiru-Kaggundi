@@ -4,4 +4,4 @@
 - 💞️ I’m can collaborate on dataviz and AI/ML projects related to governance and public policy.
 - -- Check out some of my posts on https://indianwesterlies.substack.com or www.tirumalakaggundi.com
 - :) On medium at https://medium.com/@tirumalakv
-- 📫 How to reach me: send an email to tirumalakv@gmail.com. 
+- 📫 To reach me, send an email to tirumalakv@gmail.com. 
